@@ -15,3 +15,6 @@ Infrastructure is provisioned using **Terraform**, while application deployments
 - Helm / Kustomize
 
 ## 📂 Project Structure
+
+## ✅ Status
+🔹 Repo under development – final demo expected by 31st October 2025.
